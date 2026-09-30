@@ -8,6 +8,8 @@ BlenderAI lets Claude Desktop work directly inside Blender: run code, read scene
 > ## 🚀 Want the Full Version?
 > ### 👉 **[Get BlenderAI Full Version on Gumroad](https://aiblender.gumroad.com/l/khaap)**
 > https://aiblender.gumroad.com/l/khaap
+> https://youtu.be/ZdpaSNq200o?si=_YpRiV9vDlVpnfOh
+
 
 ---
 
