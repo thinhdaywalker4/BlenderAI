@@ -28,13 +28,15 @@ Bush with radiating leaves · Coconut tree · Coffee cup · Floor lamp with patt
 - Blender **3.x – 5.x**
 - [Claude Desktop](https://claude.ai/download), signed in with your Claude account
 
-## 🎬 Video tutorial
+## 🎬 Introduction video
 
-Watch the step-by-step setup and demo on YouTube (click the image to play):
+<!-- TO PLAY THE VIDEO INLINE ON GITHUB: edit this README on github.com, drag your .mp4 here,
+     GitHub will insert a link like https://github.com/user-attachments/assets/xxxx on its own line.
+     Keep that link on its own line and you can delete the thumbnail below. -->
 
-[![BlenderAI video tutorial](https://img.youtube.com/vi/nRSr5EOqbkM/maxresdefault.jpg)](https://youtu.be/nRSr5EOqbkM)
+[![BlenderAI introduction video](https://img.youtube.com/vi/nRSr5EOqbkM/maxresdefault.jpg)](https://youtu.be/nRSr5EOqbkM)
 
-👉 https://youtu.be/nRSr5EOqbkM
+▶️ Watch on YouTube: https://youtu.be/nRSr5EOqbkM
 
 ## Quick install
 
