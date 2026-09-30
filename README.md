@@ -63,6 +63,10 @@ BlenderAI is released under a **personal-use license** — see [`BlenderAI_Sever
 
 ❤️ Huge thanks to **[ahujasid](https://github.com/ahujasid)**, the author of the original **[blender-mcp](https://github.com/ahujasid/blender-mcp)** project (MIT License). BlenderAI builds on that foundation, and this project would not exist without their work. If you like this idea, please go give the original repo a ⭐ too!
 
+## 🔒 Privacy
+
+All **telemetry functions** inherited from the original blender-mcp have been **fully removed** in BlenderAI. There is no telemetry toggle, no usage tracking and no outcome logging. Everything runs locally on your machine and nothing is sent to any server.
+
 ## Contact
 
 **Thinh Nguyen** — thinhdaywalker4@gmail.com
