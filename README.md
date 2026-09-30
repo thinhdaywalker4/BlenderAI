@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # BlenderAI — Trial Version
 
 **Control Blender with Claude Desktop through MCP (Model Context Protocol).**
@@ -8,8 +7,6 @@ BlenderAI lets Claude Desktop work directly inside Blender: run code, read scene
 > ## 🚀 Want the Full Version?
 > ### 👉 **[Get BlenderAI Full Version on Gumroad](https://aiblender.gumroad.com/l/khaap)**
 > https://aiblender.gumroad.com/l/khaap
-> https://youtu.be/ZdpaSNq200o?si=_YpRiV9vDlVpnfOh
-
 
 ---
 
@@ -18,7 +15,11 @@ BlenderAI lets Claude Desktop work directly inside Blender: run code, read scene
 | Folder | Description |
 | --- | --- |
 | `BlenderAI_Sever/` | MCP server, Blender add-on packages (`cp310`–`cp314`), installer scripts, and the installation guide (PDF) |
+| `Trial Package/` | Sample asset library for the trial: 11 OBJ models with materials/textures |
 
+### Trial asset list
+
+Bush with radiating leaves · Coconut tree · Coffee cup · Floor lamp with patterned shade · Fork · German Shepherd dog · Patterned saucer plate · Spoon · Women's bicycle with rear rack · Wooden cafe chair · Wooden table (street-style)
 
 ## Requirements
 
@@ -26,6 +27,14 @@ BlenderAI lets Claude Desktop work directly inside Blender: run code, read scene
 - Python **3.10 – 3.14** (AMD64 build, with *"Add python.exe to PATH"* checked)
 - Blender **3.x – 5.x**
 - [Claude Desktop](https://claude.ai/download), signed in with your Claude account
+
+## 🎬 Video tutorial
+
+Watch the step-by-step setup and demo on YouTube (click the image to play):
+
+[![BlenderAI video tutorial](https://img.youtube.com/vi/nRSr5EOqbkM/maxresdefault.jpg)](https://youtu.be/nRSr5EOqbkM)
+
+👉 https://youtu.be/nRSr5EOqbkM
 
 ## Quick install
 
